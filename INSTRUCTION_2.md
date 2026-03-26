@@ -1,7 +1,7 @@
 # Github Action: Build and Push Docker Image
 
 # Step 1: Create a Docker Hub account
-Go to [hub.docker.com](https://hub.docker.com) to create an account. Make sure to remember your docker hub's username and password :D.
+Go to [hub.docker.com](https://hub.docker.com){:target="_blank"} to create an account. Make sure to remember your docker hub's username and password :D.
 
 # 🔑 Step 2: Add Secrets to GitHub
 
@@ -31,7 +31,7 @@ Example:
 2. Change `with:` -> `image: hiengmao/sample-live-chat-app` to your own docker hub account.
 
 # 🔑 Step 4: Check Docker Image on Docker Hub
-Go to [https://hub.docker.com/repositories/](https://hub.docker.com/repositories) to see your docker image you have been pushed.
+Go to [https://hub.docker.com/repositories/](https://hub.docker.com/repositories){:target="_blank"} to see your docker image you have been pushed.
 
 # 🔑 Step 5: Screenshoot/Provide Link Your Docker Hub
 1. Screenshot/copy link your docker hub page that contains docker image you have pushed.
